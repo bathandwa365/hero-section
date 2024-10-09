@@ -1,1 +1,1 @@
-![](C:\Users\hp%20user\Desktop\css-projects\hero-section\screenshot.png)
+![](https://github.com/bathandwa365/hero-section/blob/main/screenshot.png)
